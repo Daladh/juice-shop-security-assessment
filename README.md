@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="DALADH — Cybersecurity & Intelligence" width="320">
+</p>
+
 # OWASP Juice Shop — Security Assessment
 
 Web application penetration test of **[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)**, the intentionally vulnerable application maintained by OWASP for security training and research.

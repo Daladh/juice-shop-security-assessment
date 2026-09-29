@@ -11,3 +11,7 @@ Thumbs.db
 /raw/
 /private/
 _gen.py
+
+# Ignore images by default, but allow the project logo
+*.png
+!assets/logo.png
