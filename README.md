@@ -49,6 +49,11 @@ Detailed, reproducible walkthroughs of representative findings:
 | 04 | [SSRF via Profile Image URL](writeups/04-ssrf-profile-image.md) | SSRF | 🟠 High |
 | 05 | [NoSQL Injection — Denial of Service](writeups/05-nosql-injection-dos.md) | Injection | 🟠 High |
 | 06 | [Broken Access Control — Other Users' Baskets](writeups/06-broken-access-control-basket.md) | Access control | 🟡 Medium |
+| 07 | [SSTI — Server-Side Template Injection](writeups/07-ssti-server-side-template-injection.md) | Injection | 🔴 Critical |
+| 08 | [Zip Slip — Arbitrary File Overwrite](writeups/08-zip-slip-arbitrary-file-overwrite.md) | File handling | 🔴 Critical |
+| 09 | [Complete 2FA Bypass](writeups/09-2fa-bypass.md) | Auth failures | 🔴 Critical |
+| 10 | [UNION SQL Injection — Credential Exfiltration](writeups/10-union-sqli-credential-exfiltration.md) | Injection | 🔴 Critical |
+| 11 | [Web3 — Exposed Seed Phrase & Private Key](writeups/11-web3-exposed-seed-phrase.md) | Cryptographic failures | 🔴 Critical |
 
 ---
 
